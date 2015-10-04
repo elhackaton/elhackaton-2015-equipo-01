@@ -1,0 +1,9 @@
+c:\users\jesus\documents\visual studio 2015\Projects\MapasDeLuz\MapasDeLuz\MapasDeLuz\bin\Debug\MapasDeLuz.dll
+c:\users\jesus\documents\visual studio 2015\Projects\MapasDeLuz\MapasDeLuz\MapasDeLuz\bin\Debug\MapasDeLuz.pdb
+c:\users\jesus\documents\visual studio 2015\Projects\MapasDeLuz\MapasDeLuz\MapasDeLuz\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\jesus\documents\visual studio 2015\Projects\MapasDeLuz\MapasDeLuz\MapasDeLuz\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\jesus\documents\visual studio 2015\Projects\MapasDeLuz\MapasDeLuz\MapasDeLuz\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\jesus\documents\visual studio 2015\Projects\MapasDeLuz\MapasDeLuz\MapasDeLuz\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\jesus\documents\visual studio 2015\Projects\MapasDeLuz\MapasDeLuz\MapasDeLuz\obj\Debug\MapasDeLuz.csprojResolveAssemblyReference.cache
+c:\users\jesus\documents\visual studio 2015\Projects\MapasDeLuz\MapasDeLuz\MapasDeLuz\obj\Debug\MapasDeLuz.dll
+c:\users\jesus\documents\visual studio 2015\Projects\MapasDeLuz\MapasDeLuz\MapasDeLuz\obj\Debug\MapasDeLuz.pdb
